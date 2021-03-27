@@ -1,0 +1,35 @@
+/*Roboto- Heading*/
+@font-face{
+    font-family: Roboto;
+    src:url('../vendor/fonts/Roboto/Roboto-Regular.ttf');
+}
+/*Abel- Navbar*/
+@font-face{
+	font-family: Abel;
+	src:url('../vendor/fonts/Abel/Abel-Regular.ttf');
+}
+
+/* - Josefin*/
+@font-face{
+	font-family: Josefin;
+	src:url('../vendor/fonts/Josefin_Sans/JosefinSans-Regular.ttf');
+}
+
+/* - Anton*/
+@font-face{
+	font-family: Anton;
+	src:url('../vendor/fonts/Anton/Anton-Regular.ttf');
+}
+
+
+/* - Lexend*/
+@font-face{
+	font-family:Lexend;
+	src:url('../vendor/fonts/Lexend_Deca/LexendDeca-Regular.ttf');
+}
+
+/* - Livvic*/
+@font-face{
+	font-family:Livvic;
+	src:url('../vendor/fonts/Livvic/Livvic-Regular.ttf');
+}
