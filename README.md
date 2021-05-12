@@ -1,1 +1,1 @@
-Portfolio - As usual a developer should have a portfolio website & it's same. This website is designed with HTML, CSS, Bootstrap, JQuery & some beautiful plugin. It has 7 section with amazing project. This website is fully responsive.
+Portfolio - As usual a developer should have a portfolio website & it's same. That means it's a portfolio website. This website is designed with HTML, CSS, Bootstrap, JQuery & some beautiful plugin. It has 7 section with amazing project. This website is fully responsive.
